@@ -1,4 +1,4 @@
-# ![hellothere](https://user-images.githubusercontent.com/46252231/204129052-bb7eb2de-8582-4dea-9f78-744f4b1235e7.gif) 👋
+# ![hellothere](https://user-images.githubusercontent.com/46252231/204129052-bb7eb2de-8582-4dea-9f78-744f4b1235e7.gif)
 
 I'm a Frontend Engineer with a background in computer science. I'm passionate about building impactful products with effective development workflows and a strong company culture. I'm trying to bring more empathy and humor in Tech.
 
