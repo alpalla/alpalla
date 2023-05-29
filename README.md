@@ -2,7 +2,7 @@
 
 I'm a Frontend Engineer with a background in computer science. I'm passionate about building impactful products with effective development workflows and a strong company culture. I'm trying to bring more empathy and humor in Tech.
 
-### My current Tech Stack ❤️
+## My current Tech Stack ❤️
 <!-- badge source: https://github.com/Ileriayo/markdown-badges -->
 - ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
