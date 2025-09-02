@@ -8,5 +8,3 @@ I'm Alessio. I'm a Senior Frontend Engineer with a background in computer scienc
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
